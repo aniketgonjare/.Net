@@ -1,1 +1,1 @@
-## This Repositiry Contains all the programs of c#
+## This Repository Contains all the programs of c#
